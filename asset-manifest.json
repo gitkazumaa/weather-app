@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gitkazumaa/weather-app/static/css/main.35122fba.css",
-    "main.js": "/gitkazumaa/weather-app/static/js/main.c7fc2976.js",
+    "main.css": "/gitkazumaa/weather-app/static/css/main.02daa8ea.css",
+    "main.js": "/gitkazumaa/weather-app/static/js/main.08a879c4.js",
     "index.html": "/gitkazumaa/weather-app/index.html",
-    "main.35122fba.css.map": "/gitkazumaa/weather-app/static/css/main.35122fba.css.map",
-    "main.c7fc2976.js.map": "/gitkazumaa/weather-app/static/js/main.c7fc2976.js.map"
+    "main.02daa8ea.css.map": "/gitkazumaa/weather-app/static/css/main.02daa8ea.css.map",
+    "main.08a879c4.js.map": "/gitkazumaa/weather-app/static/js/main.08a879c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.35122fba.css",
-    "static/js/main.c7fc2976.js"
+    "static/css/main.02daa8ea.css",
+    "static/js/main.08a879c4.js"
   ]
 }
